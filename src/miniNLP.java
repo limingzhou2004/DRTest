@@ -5,8 +5,9 @@ import java.io.IOException;
 import java.nio.charset.Charset;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.Arrays;
+//import java.util.Arrays;
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Pattern;
 import java.util.regex.Matcher;
@@ -103,9 +104,18 @@ public class miniNLP extends Thread {
 				e.writeObject(x[i]);
 		}
 		catch (IOException ex)
-		{ex.printStackTrace();}
-				
-				
+		{ex.printStackTrace();}	
+	}
+	//Stage 2 function
+	//
+	public void printKnownEntities(Token[] t)
+	{    int ii=0;
+	     
+		for ( ii=0;ii<this.knownEntity.length;ii++)
+		{String tmp=this.knownEntity[ii];
+			Arrays.stream(t).filter(s->s.name.equals(tmp))
+			.forEach(s-> System.out.printf("sentenceid is %d, name is %s\n",s.sentenceID,s.name));
+		}
 	}
 	
 

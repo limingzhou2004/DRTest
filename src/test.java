@@ -17,11 +17,18 @@ public class test {
 		//Token[] y=f1.parseSentence(d);
 		//Arrays.stream(y).forEach(s-> System.out.println(s.name));
 		
-		Token[] x=f1.processFile("nlp_data.txt");
-		Arrays.stream(x).forEach(s-> System.out.printf("sentenceid is %d, name is %s\n",s.sentenceID,s.name));
-		f1.writeXML("ner_xml.xml",x);
+		//stage 1 test
+		//Token[] x=f1.processFile("nlp_data.txt");
+		//Arrays.stream(x).forEach(s-> System.out.printf("sentenceid is %d, name is %s\n",s.sentenceID,s.name));
+		//f1.writeXML("ner_xml.xml",x);
 
+		//stage 2 test
+		//Token[] x=f1.processFile("nlp_data.txt");
+		//f1.printKnownEntities(x);
 		
+		
+		
+		//stage 3 test
 		System.out.println("done!");
 
 	}
