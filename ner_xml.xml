@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="1.8.0_51" class="java.beans.XMLDecoder">
+ <object class="Token">
+  <void property="name">
+   <string>First World War </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Ernst Haeckel </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>European War&apos; </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>September 1914 </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>The</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>term</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>was</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>first</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>used</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>in</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>by</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>German</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>philosopher</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>who</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>claimed</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>that</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>there</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>is</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>no</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>doubt</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>that</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>course</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>and</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>character</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>of</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>feared</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>&apos;</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>will</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>become</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>first</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>world</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>war</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>in</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>full</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>sense</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>of</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>word</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Why</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>did</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>war</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>begin</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Archduke Franz Ferdinand of Austria </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Gavrilo Princip </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>June 1914 </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>The</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>immediate</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>trigger</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>for</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>war</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>was</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>28</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>assassination</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>of</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>heir</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>to</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>throne</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>of</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Austria-Hungary</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>by</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Yugoslav</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>nationalist</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>(19</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>years</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>old</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>at</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>time)</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>in</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Sarajevo</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Kingdom of Serbia </string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>This</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>set</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>off</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>a</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>diplomatic</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>crisis</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>when</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Austria-Hungary</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>delivered</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>an</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>ultimatum</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>to</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>and</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>entangled</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>international</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>alliances</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>formed</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>over</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>previous</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>decades</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>were</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>invoked</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>Within</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>weeks</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>major</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>powers</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>were</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>at</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>war</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>and</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>conflict</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>soon</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>spread</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>around</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>the</string>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="name">
+   <string>world</string>
+  </void>
+ </object>
+</java>
