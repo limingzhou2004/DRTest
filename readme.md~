@@ -1,0 +1,12 @@
+The 3 stages are commited separately and pushed to Github.
+
+Assume paragraphs are separated by \n
+Assume sentences are separated by .|!|?
+Assume tokens are seprated by a space.
+Assume four patterns are defined from NER.txt, i.e. U of U; U de U; U ap U
+and U numeric, U for Upper case.
+
+To improve:
+Define library or use existing library to identify known entities;
+
+
