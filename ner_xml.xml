@@ -1,598 +1,1312 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <java version="1.8.0_51" class="java.beans.XMLDecoder">
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>First World War </string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Ernst Haeckel </string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>European War&apos; </string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>September 1914 </string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>The</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>The</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>term</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>was</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>first</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>first</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>used</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>in</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>by</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>German</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>philosopher</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>who</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>claimed</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>that</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>that</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>there</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>is</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>no</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>doubt</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>that</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>course</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>and</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>and</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>character</string>
   </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>of</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>feared</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>&apos;</string>
+  <void property="sentenceID">
+   <int>1</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>European</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>War</string>
+  </void>
+  <void property="sentenceID">
+   <int>1</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>will</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>become</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>2</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>first</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>world</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>war</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>in</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>2</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>full</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>sense</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>of</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>2</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>word</string>
   </void>
+  <void property="sentenceID">
+   <int>2</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Why</string>
   </void>
+  <void property="sentenceID">
+   <int>3</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>did</string>
   </void>
+  <void property="sentenceID">
+   <int>3</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>the</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>war</string>
+  <void property="sentenceID">
+   <int>3</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>war</string>
+  </void>
+  <void property="sentenceID">
+   <int>3</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>begin</string>
   </void>
+  <void property="sentenceID">
+   <int>3</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Archduke Franz Ferdinand of Austria </string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Gavrilo Princip </string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>June 1914 </string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>The</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>immediate</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>trigger</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>for</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>war</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>war</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>was</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>28</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>assassination</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>of</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>of</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>heir</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>to</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>throne</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>of</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>Austria-Hungary</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>Austria-Hungary</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>by</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Yugoslav</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>nationalist</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>(19</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>19</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>years</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>old</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>at</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>4</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>time)</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>in</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Sarajevo</string>
   </void>
+  <void property="sentenceID">
+   <int>4</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Kingdom of Serbia </string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>This</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>set</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>off</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>a</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>diplomatic</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>crisis</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>when</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Austria-Hungary</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>delivered</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>an</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>ultimatum</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>to</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>the</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>and</string>
+  <void property="sentenceID">
+   <int>5</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>and</string>
+  </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>entangled</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>international</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>alliances</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>formed</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>over</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>5</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>previous</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>decades</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>were</string>
+  <void property="sentenceID">
+   <int>5</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>were</string>
+  </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>invoked</string>
   </void>
+  <void property="sentenceID">
+   <int>5</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>Within</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>weeks</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>6</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>major</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>powers</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>were</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>at</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>war</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>and</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>6</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>conflict</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>soon</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>spread</string>
   </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>around</string>
   </void>
- </object>
- <object class="Token">
-  <void property="name">
-   <string>the</string>
+  <void property="sentenceID">
+   <int>6</int>
   </void>
  </object>
  <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
+  <void property="name">
+   <string>the</string>
+  </void>
+  <void property="sentenceID">
+   <int>6</int>
+  </void>
+ </object>
+ <object class="Token">
+  <void property="documentName">
+   <string></string>
+  </void>
   <void property="name">
    <string>world</string>
+  </void>
+  <void property="sentenceID">
+   <int>6</int>
   </void>
  </object>
 </java>

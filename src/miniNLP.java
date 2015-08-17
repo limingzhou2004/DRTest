@@ -43,7 +43,8 @@ public class miniNLP extends Thread {
 	//U of U; U de U; U ap U
 	//U numeric
 	public Token[] parseSentence(Sentence s)
-	{	String originStr=s.content.trim().replace(",", "").replace(".","").replace("\"", "");
+	{	String originStr=s.content.replace(",", "").replace(".","")
+		.replace("\"", "").replace("'","").replace("(","").replace(", newChar)","").trim();
 		String replceTo="";
 		ArrayList<Token> tks=new ArrayList<Token>();
 		Pattern[] patterns = {Pattern.compile("([A-Z]\\S+\\s)+((of|de|ap)\\s)?([A-Z]\\S+\\s)+"),
@@ -52,7 +53,9 @@ public class miniNLP extends Thread {
 		for (int i=0;i<patterns.length;i++) {
 			Matcher m = patterns[i].matcher(originStr);
 			while(m.find()) {
-		             tks.add(new Token(s.ID,originStr.substring(m.start(), m.end())));
+				Token tt=new Token(-19,originStr.substring(m.start(), m.end()));
+				tt.setSentenceID(s.ID+1);		
+		             tks.add(tt);
 					//System.out.println(originStr.substring(m.start(), m.end()));
 			}			
 			originStr=m.replaceAll(replceTo);
@@ -62,7 +65,9 @@ public class miniNLP extends Thread {
 		
 		String[] temp=originStr.split("\\s");
 		for (int i=0;i<temp.length;i++)
-			tks.add(new Token(s.ID, temp[i]));
+		{Token tt=new Token(-19, temp[i]);
+		 tt.setSentenceID( s.ID+1);
+		 tks.add(tt);}
 		return tks.toArray(new Token[tks.size()]);
 	}
 	//read a text file and split by [.!?] for sentence
@@ -78,8 +83,9 @@ public class miniNLP extends Thread {
 					mapToObj(x->new Sentence(x,temp.get(x)));
 			
 			
-			List<Token> t2=st.flatMap(s->Stream.of(this.parseSentence(s))).
-					collect(Collectors.toList());
+			List<Token> t2=st.flatMap(s->Stream.of(this.parseSentence(s)))
+					.filter(s->s.getName().length()>0)
+					.collect(Collectors.toList());
 		return t2.toArray(new Token[t2.size()]);
 			
 		//	.forEach(System.out::println);
@@ -101,7 +107,7 @@ public class miniNLP extends Thread {
 						new FileOutputStream(fn))))
 		{
 			for (int i=0;i<x.length;i++)
-				e.writeObject(x[i]);
+			{e.writeObject(x[i]);}
 		}
 		catch (IOException ex)
 		{ex.printStackTrace();}	
@@ -114,7 +120,8 @@ public class miniNLP extends Thread {
 		for ( ii=0;ii<this.knownEntity.length;ii++)
 		{String tmp=this.knownEntity[ii];
 			Arrays.stream(t).filter(s->s.name.equals(tmp))
-			.forEach(s-> System.out.printf("sentenceid is %d, name is %s\n",s.sentenceID,s.name));
+			.forEach(s-> System.out.printf("document: %s, sentenceid is %d, "
+					+ "identified name is %s\n",s.documentName, s.sentenceID,s.name));
 		}
 	}
 	
